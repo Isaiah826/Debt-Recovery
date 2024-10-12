@@ -2,7 +2,6 @@
 Debt Recovery for a fast-growing Fintech Lender Company
 Here’s your content converted into markdown for GitHub:
 
-```markdown
 # Debt Collections Analysis for Fintech Lender  
 
 ## Problem Statement  
