@@ -1,3 +1,5 @@
+![debt Image](debt.jpg)
+
 # Debt-Recovery
 Debt Recovery for a fast-growing Fintech Lender Company
 Here’s your content converted into markdown for GitHub:
