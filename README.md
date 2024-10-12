@@ -44,7 +44,6 @@ The pie chart analysis revealed:
 
 ---
 
-![debtt Image](debt_recovery2.jpg)
 
 
 ## 4. Relationship Between Connected Calls and Repayments  
@@ -65,6 +64,7 @@ The pie chart analysis revealed:
   - **Week 4**: E = NGN 2.44 million, D = NGN 0.14 million  
 
 ---
+![debtt Image](debt_recovery2.jpg)
 
 ## 6. Which Bucket Has the Highest Average Repayment Value?  
 
