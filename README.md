@@ -44,6 +44,9 @@ The pie chart analysis revealed:
 
 ---
 
+![debtt Image](debt_recovery2.jpg)
+
+
 ## 4. Relationship Between Connected Calls and Repayments  
 
 - Figure E reveals an **inverse relationship** between connected calls and repayments.  
