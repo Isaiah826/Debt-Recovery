@@ -12,6 +12,8 @@ A debt collections team has been charged with the task of recovering **NGN10 mil
 
 ---
 
+![debt1 Image](debt_recovery.jpg)
+
 ## 1. What percentage of calls resulted in a promise to pay?  
 
 The pie chart analysis revealed:  
